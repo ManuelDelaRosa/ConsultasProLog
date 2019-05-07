@@ -1,0 +1,36 @@
+mujer(ana).
+mujer(maria).
+mujer(luisa).
+mujer(fabiola).
+mujer(esther).
+mujer(rocio).
+mujer(deysi).
+mujer(vanessa).
+mujer(martha).
+mujer(romina).
+
+hombre(hugo).
+hombre(paco).
+hombre(luis).
+hombre(mario).
+hombre(marco).
+hombre(juan).
+hombre(pedro).
+hombre(raul).
+hombre(gerardo).
+hombre(sergio).
+
+madre(ana, rocio).
+madre(ana, maria).
+madre(ana, luis).
+madre(martha, deysi).
+madre(fabiola, romina).
+madre(romina, luisa).
+
+padre(raul, rocio).
+padre(marco, hugo).
+padre(pedro, gerardo).
+padre(marco, romina).
+padre(sergio, paco).
+padre(hugo, sergio).
+
